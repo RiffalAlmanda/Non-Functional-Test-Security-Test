@@ -1,0 +1,25 @@
+Security Test Idea
+
+Example Test Scenarios for Security Testing:
+Example Test Scenarios unutk memberi Anda gambaran sekilas tentang kasus uji kemanan-
+* Kata sandi harus dalam format terenkripsi
+* Aplikasi atau Sistem tidak boleh mengizinkan pengguna yang tidak valid
+* Periksa cookie dan waktu sesi unutk Aplikasi
+
+Brute Force
+Test Idea
+* cek fitur yang berhubungan dengan login atau crate order
+* Lakukan request dengan data password yang berbeda, bisa menggunakan performance test atau postman data driven
+* Pastikan request Anda dalam 2 menint akan terkena block (Rata Limiter) atau ada maksimal request attemp (3x password salah langsung di terblockir
+)
+
+Sistem Loophole
+* Make sure API method is designed according to the TRD/API Contrct
+* Misalkan ada endpoint yang digunakan untuk membuat order POST 'api/V2/order'
+* Anda bisa mencoba menggunakan methid requws lain, misalkan GET 'api/V2/order'
+* Loophole adalah celah awal dari ekploitasi
+
+Business Loophole
+* Misalkan fitur berbayar hanya bisa diakses lewat akun berbayar
+* Tetapi beberapa user gratis bisa mengakses halaman tersebut melewati endpoint atau hit langsung halaman tersebut
+
