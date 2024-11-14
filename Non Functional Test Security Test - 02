@@ -1,0 +1,12 @@
+Penetration Test
+
+Penetration Testing adalah suatu kegiatan dimana seseorang mencoba
+mensimulasikan serangan yang bisa dilakukan terhadap jaringan organisasi/ perusahaan
+tertentu untuk menemukan kelemahan yang ada pada sistem jaringan tersebut. Orang yang melakukan kegiatan ini disebut
+penetration tester (disingkat pentester)
+
+Pentes Method
+* Data Collection - Data Collection memainkan peran kunci untuk pengujian. Seseorang dapat mengumpulkan data secara manual atau dapatmenggunakan layanan alat (seperti teknis analis kode sumber halaman web, dll.) yang tersedia secara online secara gratis. Alat-alat ini membantu mengumpulkan informasi seperti nama tabel, versi DB, database, peangkat lunak, perangkat keras, atau bahkan tentang berbagai plugin pihak ketiga, dll
+* Vulnerability Assessment - Setelah data dikumpulkan, ini membantu penguji untuk mengidentifikasi kelemahan keamanan dan mengambil langkah pencegahan yang sesuai.
+* Actual Ecploit - ini adalah metode khas yang digunakan penguji ahli unutk meluncurkan serangan pada sistem target dan juga, mengurangi risiko serangan.
+* Report Preparation - Setelah penetrasi selesai, penguji menyiapkan laporan akhir yang menjelaskan segala sesuatu tentang sistem. Akhirnya laporan dianalisis untuk mengambil langkah-langkah korektif untuk melindungi sistem target.
