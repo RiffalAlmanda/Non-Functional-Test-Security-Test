@@ -1,0 +1,50 @@
+Security Testing
+
+Poin Belajar
+* Security Testing
+* Penetration Testing
+* Security Test Idea
+
+Security Testing
+- Security Testing adalah jenis Pengujian Pereangkat Lunak yang mengungkap kerentanan, ancaman, risiko dalam aplikasi perangkat lunak dan mencegah serangan berbahaya dari penyusup
+- Security testing juga merupakan suatu proses untuk menentukan bahwa sistem informasi melindungi data dan menjaga fungsionalitasnya.
+- Untuk memeriksa apakah sistem tersebut memiliki akses yang tidak sah dan memiliki kode keamanan terenkripsi.
+- Untuk mengetahui semua celah potensial dan kelemahan sistem.
+
+Vulnerability Scanning
+- Ini Melibatkan pemindaian aplikasi  unutk semua kerentanan yang diketahui.
+- Program komputer yang dirancang untuk menilai komputer, sistem komputer, jaringan, atau aplikasi terhadap kelemahan.
+-Umumnya dilakukan melalui berbagai perangkat lunak pemindaian kerentanan. contohnya: Nessus, Sara, dan ISS.
+
+Security Scanning
+- Pemindaian dan verifikasi sistem dan aplikasi.
+- MEncari tahu kelemahan dalam sistem operasi, aplikasi, dan jaringan.
+
+Penetration Testing
+- Penguji mungkin mencoba masuk ke dalam aplikasi/sistem dengan bantuan aplikasi lain atau dengan bantuan kombinasi celah yang telah dibuka oleh aplikasi tanpa disadari.
+- Ini adalah cara yang paling efektif untuk secara praktis menemukan celah potensial dalam aplikasi.
+
+Ethical Hacking
+- Ecthical Hacking melibatkan sejumlah uji penetrasi di seluruh jaringan pada sistem yang sedang diuji. ini dilakukan oleh peretas etis untuk menemukan masalah yang mungkin ada dalam sistem.
+
+Risk Assessment 
+- Merupakan metode analisis dan penentuan risiko yang bergantung pada jenis kerugian dan kemungkinan/kejadian kerugian
+- Penilaian risiko dilakukan dalam bentuk wawancara, diskusi, dan analisis yang beragam.
+
+Security Auditing
+- Audit Keamanan melibatkan pemeriksaan internal langsung terhadap sistem operasi dan aplikasi, seringkali melalui pemeriksaan baris demi baris dari kode. 
+- Audit keamanan adalah evaluasi sistematis terhadap keamanan sistem informasi perusahaan.
+
+Posture Assessment and Security Testing
+- Ini menggabungkan Security Scanning, Ethical Hacking dan Risk Assessments untuk menunjukan Postur Keamanan keseluruhan organisasi.
+
+Password Cracking
+- Program pemecah kata sandi dapat digunakan untuk mengindentifikasi kata sandi yang lemah.
+- Pemecahan kata sandi memverifikasi bahwa pengguna menggunakan kata sandi yang cukup kuat.
+
+Tujuan Security Testing
+- Meningkatkan Kemampuan Software
+- Mengurangi Risiko Kehilangan Data
+- Membangun Kepercayaan Pengguna
+- Meningkatkan Ketangkasan
+
